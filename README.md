@@ -48,5 +48,3 @@ Attribute-based errors are crafted based on structured properties extracted from
 
 ---
 
-## 📂 Folder Structure Overview
-
