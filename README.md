@@ -1,6 +1,5 @@
 # 🚗 FG-OVVD: Fine-Grained Open-Vocabulary Vehicle Detection
 
-📌 Architecture Diagram:
 
 ![Attribute Architecture](./images/attribute_architecture.jpg)  
 
