@@ -3,6 +3,7 @@
 
 ![Attribute Architecture](./images/attribute_architecture.jpg)  
 
+## Overview
 This project focuses on fine-grained vehicle image understanding by constructing a dataset containing **semantically perturbed** and **attribute-altered** textual descriptions. It is designed to analyze how Open-Vocabulary Detection (OVD) models behave under various semantic shifts and granular attribute modifications.
 
 We divide the negative caption design into two main categories:
