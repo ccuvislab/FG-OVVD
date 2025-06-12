@@ -1,5 +1,9 @@
 # 🚗 FG-OVVD: Fine-Grained Open-Vocabulary Vehicle Detection
 
+📌 Architecture Diagram:
+
+![Attribute Architecture](./images/attribute_architecture.jpg)  
+
 This project focuses on fine-grained vehicle image understanding by constructing a dataset containing **semantically perturbed** and **attribute-altered** textual descriptions. It is designed to analyze how Open-Vocabulary Detection (OVD) models behave under various semantic shifts and granular attribute modifications.
 
 We divide the negative caption design into two main categories:
@@ -41,9 +45,7 @@ Attribute-based errors are crafted based on structured properties extracted from
 - **Category 2: Vehicle Type (e.g., SUV, Sedan)**
   - Wrong vehicle category
 
-📌 Architecture Diagram:
 
-![Attribute Architecture](./images/attribute_architecture.jpg)  
 📁 Dataset: [`attribute_based/`](./attribute_based/)
 
 ---
