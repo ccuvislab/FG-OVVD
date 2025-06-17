@@ -11,7 +11,7 @@ We divide the negative caption design into two main categories:
 - **Difficulty-based**: Captions with word-level perturbations that introduce varying degrees of semantic confusion.
 - **Attribute-based**: Captions with isolated attribute errors (e.g., color, model, brand) to evaluate sensitivity to fine-grained object features.
 
-We also analyze **Top-k accuracy** and **confidence thresholds** to examine the model's robustness and prediction consistency under subtle language variations.
+We also analyze **Top-k accuracy** and **confidence thresholds** to examine the model's prediction consistency under subtle language variations.
 
 ---
 
